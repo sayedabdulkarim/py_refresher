@@ -1,0 +1,9 @@
+- Python:
+
+- Machine Learning (ML): Get a basic understanding of ML concepts
+
+- Natural Language Processing (NLP): Since LLMs are an advanced application within NLP, gaining familiarity with NLP basics will provide you with the necessary background. 
+
+- Explore Pre-Trained NLP Models: Before jumping into LLMs, experiment with smaller, pre-trained NLP models available in libraries like NLTK, SpaCy, or Transformers by Hugging Face. This will give you a sense of working with models that have been trained on language data.
+
+- Start with LLM Projects: After Python, ML, and NLP, you'll be in a much better position to tackle projects involving LLMs like GPT-3. Starting with API-based projects is a good way to get hands-on experience without the complexity of training models from scratch.
