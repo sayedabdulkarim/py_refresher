@@ -8,3 +8,5 @@ def print_numbers_up_to(n):
         print(i)
 
 print_numbers_up_to(10)
+
+print(sum([1,2,3]))
