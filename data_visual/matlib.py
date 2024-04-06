@@ -7,6 +7,8 @@ y = x ** 2
 print(x, " xxxx")
 print(y, " yyyy")
 
-plt.plot(x, y)
+plt.plot(x, y, 'orange')
+plt.xlabel("X LABEL")
+plt.ylabel("Y LABEL")
 
 plt.show()
