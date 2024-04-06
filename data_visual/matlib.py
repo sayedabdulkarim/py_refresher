@@ -10,5 +10,6 @@ print(y, " yyyy")
 plt.plot(x, y, 'orange')
 plt.xlabel("X LABEL")
 plt.ylabel("Y LABEL")
+plt.title("TITLE")
 
 plt.show()
