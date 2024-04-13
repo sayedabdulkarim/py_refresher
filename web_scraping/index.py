@@ -8,4 +8,4 @@ result = requests.get("https://www.example.com/")
 import bs4;
 
 soup = bs4.BeautifulSoup(result.text, "lxml")
-print(soup.select("h1"))
+print(soup.select("p"))
