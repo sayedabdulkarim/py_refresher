@@ -1,2 +1,9 @@
 import csv
-print(dir(csv))  # This will print out all the attributes and methods available in the 'csv' module.
+
+data = open("../example.csv", encoding="utf-8")
+
+csv_data = csv.reader(data)
+
+datalines = list(csv_data)
+
+print(datalines)
