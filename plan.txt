@@ -10,3 +10,57 @@
 
 
 py -m pip install pylint
+
+///
+
+================================================================================
+### AI Roadmap for Beginners (Bullet Points)
+
+1. **Understand Basics of AI**
+   - Overview of AI, ML, DL, NLP, and Computer Vision
+   - **Time:** 1 week
+
+2. **Learn Python**
+   - Basics: syntax, data structures, control structures, functions, classes
+   - Advanced: list comprehensions, lambda functions, modules, error handling
+   - **Time:** 3-4 weeks
+
+3. **Mathematics for AI**
+   - Linear Algebra: vectors, matrices, operations
+   - Calculus: differentiation, integration, partial derivatives
+   - Probability and Statistics: basic probability, distributions, statistical tests
+   - **Time:** 4-6 weeks
+
+4. **Introduction to Machine Learning**
+   - Concepts: Supervised vs. Unsupervised Learning, Regression, Classification, Clustering
+   - Libraries: NumPy, pandas, Matplotlib, Scikit-Learn
+   - **Time:** 4-6 weeks
+
+5. **Deep Learning**
+   - Concepts: Neural networks, activation functions, backpropagation
+   - Frameworks: TensorFlow, Keras, PyTorch
+   - **Time:** 4-6 weeks
+
+6. **Specialized Areas**
+   - Natural Language Processing (NLP): Text processing, sentiment analysis, language models
+   - Computer Vision: Image processing, convolutional neural networks (CNNs), object detection
+   - **Time:** 4-6 weeks
+
+7. **Practical Projects**
+   - Real-world projects: recommendation system, image classifier, chatbot, sentiment analysis
+   - Competitions: Kaggle competitions
+   - **Time:** Ongoing
+
+8. **Advanced Topics and Continuous Learning**
+   - Advanced ML Algorithms: XGBoost, LightGBM, ensemble methods
+   - Stay updated: AI research papers, blogs, news
+   - **Time:** Ongoing
+
+### Estimated Total Time
+
+- **Basics to Intermediate Level (Steps 1-5):** 16-23 weeks
+- **Specialized Areas (Step 6):** 4-6 weeks
+- **Practical Projects and Continuous Learning (Steps 7-8):** Ongoing
+
+### Overall
+- **Total Time to Get Started:** 20-29 weeks (about 5-7 months)
