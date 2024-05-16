@@ -20,6 +20,24 @@ py -m pip install pylint
    - Overview of AI, ML, DL, NLP, and Computer Vision
    - **Time:** 1 week
 
+### AI (Artificial Intelligence)
+- **[What is AI? - Crash Course AI #1](https://www.youtube.com/watch?v=G5tvgA1PHYs)** - 
+
+### ML (Machine Learning)
+- **[Machine Learning Basics with the Kaggle Microcourse](https://www.youtube.com/playlist?list=PLqFaTIg4myu8h3wR5lAtT0ODy6CfNoFq6)** - 
+
+### DL (Deep Learning)
+- **[But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)**
+
+### NLP (Natural Language Processing)
+- **[Natural Language Processing In 10 Minutes | NLP Tutorial For Beginners | NLP Training | Edureka](https://www.youtube.com/watch?v=fOvTtapxa9c)** 
+
+### Computer Vision
+- **[Computer Vision Explained | Simplilearn](https://www.youtube.com/watch?v=59877VIU0RQ)** 
+
+====================================================================================================
+
+
 2. **Learn Python**
    - Basics: syntax, data structures, control structures, functions, classes
    - Advanced: list comprehensions, lambda functions, modules, error handling
