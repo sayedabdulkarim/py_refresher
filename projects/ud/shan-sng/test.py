@@ -13,10 +13,21 @@
 import pandas as pd
 from tabulate import tabulate
 
+#####GET DATA#####
+
 # Correct CSV file path
 # csv_file_path = "../../../example.csv"
 xlsx_file_path = "../../../Data_Train.xlsx"
 df = pd.read_excel(xlsx_file_path)
 
 # Display the dataframe in a table format ( GET DATA )
-print(tabulate(df.head(50), headers='keys', tablefmt='psql'))
+# print(tabulate(df.head(50), headers='keys', tablefmt='psql'))
+
+# print(df.tail(4))
+#####CLEAN DATA#####
+print(df.isnull().sum())
+# print(df[df["Total_Stops"].isnull()])
+
+df.dropna(inplace=True)
+print(df.isnull().sum())
+# print(df[df["Total_Stops"].isnull()])
