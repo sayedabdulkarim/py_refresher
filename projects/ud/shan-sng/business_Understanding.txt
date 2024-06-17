@@ -1,0 +1,7 @@
+1. Business Understanding
+2. Data Collection
+3. Data Cleaning
+4. Data Analysis
+5. Feature Engineering
+6. Model Building
+7. Deployment
