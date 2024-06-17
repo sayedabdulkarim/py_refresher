@@ -54,7 +54,7 @@ py -m pip install pylint
    - Libraries: NumPy, pandas, Matplotlib, Scikit-Learn
    - **Time:** 4-6 weeks
 
-5. **Deep Learning**
+5. **Deep Learning** - ( search for this udmy for project )
    - Concepts: Neural networks, activation functions, backpropagation
    - Frameworks: TensorFlow, Keras, PyTorch
    - **Time:** 4-6 weeks
