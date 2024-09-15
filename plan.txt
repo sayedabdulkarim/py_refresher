@@ -82,3 +82,14 @@ py -m pip install pylint
 
 ### Overall
 - **Total Time to Get Started:** 20-29 weeks (about 5-7 months)
+
+
+=======================================================
+- 10 project in ML -
+- 10 project in NLP - 
+- 10 projects with Langchain - 
+- some web projects with AI 
+
+contnue the same projects 
+
+ML - Interview 
