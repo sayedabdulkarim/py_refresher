@@ -93,3 +93,19 @@ py -m pip install pylint
 contnue the same projects 
 
 ML - Interview 
+
+///////
+
++-------------------+---------------------------+-----------------------------------+
+|    Category       |       Key Algorithms      |          Example Projects         |
++-------------------+---------------------------+-----------------------------------+
+| Supervised        | Linear Regression, SVM,  | House Price Prediction,          |
+|                   | CNN                       | Image Classification             |
++-------------------+---------------------------+-----------------------------------+
+| Unsupervised      | K-Means, PCA, LDA         | Customer Segmentation,           |
+|                   |                           | Anomaly Detection                |
++-------------------+---------------------------+-----------------------------------+
+| Reinforcement     | Q-Learning, DQN, PPO      | Game Playing AI,                 |
+|                   |                           | Autonomous Driving               |
++-------------------+---------------------------+-----------------------------------+
+
