@@ -109,3 +109,21 @@ ML - Interview
 |                   |                           | Autonomous Driving               |
 +-------------------+---------------------------+-----------------------------------+
 
+
++-------------------+-------------------------------------+--------------------------+
+|    Category       |           Project Name             |       Algorithm          |
++-------------------+-------------------------------------+--------------------------+
+| Supervised        | House Price Prediction             | Linear Regression        |
+|                   | Iris Flower Classification         | Logistic Regression      |
+|                   | Email Spam Detection               | Naive Bayes              |
+|                   | Sentiment Analysis on Movie Reviews| Support Vector Machines  |
++-------------------+-------------------------------------+--------------------------+
+| Unsupervised      | Customer Segmentation              | K-Means                  |
+|                   | Market Basket Analysis             | Apriori Algorithm        |
+|                   | Document Clustering                | Hierarchical Clustering  |
++-------------------+-------------------------------------+--------------------------+
+| Reinforcement     | CartPole Balancing                 | Q-Learning/DQN           |
+|                   | Tic-Tac-Toe AI                     | Q-Learning               |
+|                   | Maze Solver                        | Q-Learning               |
++-------------------+-------------------------------------+--------------------------+
+
