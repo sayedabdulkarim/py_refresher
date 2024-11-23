@@ -118,7 +118,7 @@ ML - Interview
 |                   | Email Spam Detection               | Naive Bayes              |
 |                   | Sentiment Analysis on Movie Reviews| Support Vector Machines  |
 +-------------------+-------------------------------------+--------------------------+
-| Unsupervised      | Customer Segmentation              | K-Means                  |
+| Unsupervised      | Customer Segmentation              | K-Means                  |  https://marcelclasses.udemy.com/course/customer-analytics-in-python/
 |                   | Market Basket Analysis             | Apriori Algorithm        |
 |                   | Document Clustering                | Hierarchical Clustering  |
 +-------------------+-------------------------------------+--------------------------+
