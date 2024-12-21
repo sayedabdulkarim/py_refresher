@@ -132,3 +132,12 @@ ML _ CATEGORY start
 
 ML _ CATEGORY end ######
 
+//AFTER 
+
+(Openrouter) Llama 3.1
+
+//create a ... llm rag ()
+ 
+Rag with llm
+
+LLM based project ( query )
