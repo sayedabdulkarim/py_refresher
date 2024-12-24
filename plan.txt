@@ -140,4 +140,5 @@ ML _ CATEGORY end ######
  
 Rag with llm
 
-LLM based project ( query )
+- LLM based project ( query )
+- AI Agents proj
